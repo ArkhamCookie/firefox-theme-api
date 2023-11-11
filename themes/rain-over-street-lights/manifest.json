@@ -2,6 +2,7 @@
 	"manifest_version": 2,
 	"version": "0.1.0",
 	"name": "Rain Over Street Lights",
+	"homepage_url": "https://github.com/ArkhamCookie/firefox-themes/tree/main/themes/rain-over-street-lights",
 	"icons": {
 		"64": "icons/icon.png"
 	},
