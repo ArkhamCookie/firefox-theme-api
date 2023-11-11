@@ -9,7 +9,7 @@
 	},
 	"theme": {
 		"images": {
-			"theme_frame": "./imgs/rain-over-street-lights-resized.jpg"
+			"theme_frame": "./imgs/sky-background.png"
 		},
 		"colors": {
 			"frame": "#FFFFFF",
