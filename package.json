@@ -1,6 +1,9 @@
 {
   "version": "0.1.0",
-  "scripts": {},
+  "scripts": {
+		"lint": "eslint",
+		"lint:extensions": "eslint ./extensions"
+	},
   "author": "ArkhamCookie <npm@mail.theuntitledproject.dev> (https://theuntitledproject.dev)",
   "license": "MIT",
   "devDependencies": {
