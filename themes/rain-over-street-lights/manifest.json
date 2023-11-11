@@ -1,0 +1,14 @@
+{
+	"manifest_version": 2,
+	"version": "0.1.0",
+	"name": "Rain Over Street Lights",
+	"theme": {
+		"images": {
+			"theme_frame": "./imgs/rain-over-street-lights.jpg"
+		},
+		"colors": {
+			"frame": "#FFFFFF",
+			"tab_background_text": "#000"
+		}
+	}
+}
