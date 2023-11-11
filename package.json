@@ -16,7 +16,7 @@
 
 		"ext-dev": "web-ext build --overwrite-dest --as-needed --artifacts-dir ./out/ --source-dir",
 
-		"dev:street-light": "pnpm run ext-dev ./themes/rain-over-street-lights"
+		"dev:street-lights": "pnpm run ext-dev ./themes/rain-over-street-lights"
   },
   "author": "ArkhamCookie <npm@mail.theuntitledproject.dev> (https://theuntitledproject.dev)",
   "license": "MIT",
