@@ -4,6 +4,8 @@
     "lint": "eslint --no-error-on-unmatched-pattern",
 
     "lint:extensions": "lint ./extensions",
+		"lint:dynamic": "lint ./extensions/dynamic ; ext-lint ./extensions/dynamic",
+		"lint:street-lights": "ext-lint ./themes/rain-over-street-lights",
   },
   "author": "ArkhamCookie <npm@mail.theuntitledproject.dev> (https://theuntitledproject.dev)",
   "license": "MIT",
