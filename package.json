@@ -7,6 +7,16 @@
     "lint:extensions": "pnpm run lint ./extensions",
 		"lint:dynamic": "pnpm run lint ./extensions/dynamic ; pnpm run ext-lint ./extensions/dynamic",
 		"lint:street-lights": "pnpm run ext-lint ./themes/rain-over-street-lights",
+
+		"start:dynamic": "web-ext run --source-dir ./extensions/dynamic",
+
+		"ext-build": "web-ext build --overwrite-dest --artifacts-dir ./out/ --source-dir",
+
+		"build:street-lights": "pnpm run ext-build ./themes/rain-over-street-lights",
+
+		"ext-dev": "web-ext build --overwrite-dest --as-needed --artifacts-dir ./out/ --source-dir",
+
+		"dev:street-light": "pnpm run ext-dev ./themes/rain-over-street-lights"
   },
   "author": "ArkhamCookie <npm@mail.theuntitledproject.dev> (https://theuntitledproject.dev)",
   "license": "MIT",
