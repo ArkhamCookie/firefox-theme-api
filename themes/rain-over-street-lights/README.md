@@ -8,6 +8,8 @@ A simple static theme used to learn the basics of Firefox themes.
   is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0)
 - [Rain over street Lights](https://www.flickr.com/photos/49372312@N00/500251940)
   is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+- [Sky Background](https://www.deviantart.com/kaiseto/art/Sky-Background-125751046)
+  is licensed under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 ---
 
