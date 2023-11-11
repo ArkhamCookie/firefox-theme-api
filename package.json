@@ -2,6 +2,7 @@
   "version": "0.1.0",
   "scripts": {
     "lint": "eslint --no-error-on-unmatched-pattern",
+		"ext-lint": "web-ext lint",
 
     "lint:extensions": "lint ./extensions",
 		"lint:dynamic": "lint ./extensions/dynamic ; ext-lint ./extensions/dynamic",
