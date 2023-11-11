@@ -12,8 +12,25 @@
 			"theme_frame": "./imgs/sky-background.png"
 		},
 		"colors": {
-			"frame": "#FFFFFF",
-			"tab_background_text": "#000"
+			"frame": "#7cd0f5",
+			"tab_background_text": "black",
+			"icons": "black",
+			"ntp_background": "#7cd0f5",
+
+			"popup": "#7cd0f5",
+			"popup_border": "black",
+			"popup_highlight": "blue",
+			"popup_highlight_text": "white",
+			"popup_text": "black",
+
+			"sidebar": "#7cd0f5",
+			"sidebar_border": "black",
+			"sidebar_highlight": "blue",
+			"sidebar_highlight_text": "white",
+			"sidebar_text": "black",
+
+			"tab_line": "blue",
+			"toolbar_field_border": "blue"
 		}
 	}
 }
