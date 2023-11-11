@@ -1,12 +1,13 @@
 {
   "version": "0.1.0",
   "scripts": {
-		"lint": "eslint",
-		"lint:extensions": "eslint ./extensions"
-	},
+    "lint": "eslint",
+    "lint:extensions": "eslint ./extensions"
+  },
   "author": "ArkhamCookie <npm@mail.theuntitledproject.dev> (https://theuntitledproject.dev)",
   "license": "MIT",
   "devDependencies": {
+    "create-web-ext": "^1.0.0",
     "eslint": "^8.53.0",
     "eslint-config-standard": "^17.1.0",
     "eslint-plugin-import": "^2.29.0",
