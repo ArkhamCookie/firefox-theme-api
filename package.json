@@ -4,9 +4,9 @@
     "lint": "eslint --no-error-on-unmatched-pattern",
 		"ext-lint": "web-ext lint --source-dir",
 
-    "lint:extensions": "lint ./extensions",
-		"lint:dynamic": "lint ./extensions/dynamic ; ext-lint ./extensions/dynamic",
-		"lint:street-lights": "ext-lint ./themes/rain-over-street-lights",
+    "lint:extensions": "pnpm run lint ./extensions",
+		"lint:dynamic": "pnpm run lint ./extensions/dynamic ; pnpm run ext-lint ./extensions/dynamic",
+		"lint:street-lights": "pnpm run ext-lint ./themes/rain-over-street-lights",
   },
   "author": "ArkhamCookie <npm@mail.theuntitledproject.dev> (https://theuntitledproject.dev)",
   "license": "MIT",
