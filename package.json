@@ -1,8 +1,9 @@
 {
   "version": "0.1.0",
   "scripts": {
-    "lint": "eslint",
-    "lint:extensions": "eslint ./extensions"
+    "lint": "eslint --no-error-on-unmatched-pattern",
+
+    "lint:extensions": "lint ./extensions",
   },
   "author": "ArkhamCookie <npm@mail.theuntitledproject.dev> (https://theuntitledproject.dev)",
   "license": "MIT",
