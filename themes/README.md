@@ -2,5 +2,5 @@
 
 ## Table of Contents
 
-- [Rain Over Street Lights](./rain-over-street-lights/):
+- [Bright Sky](./bright-sky/):
   a simple static theme used to learn the basics of Firefox themes.

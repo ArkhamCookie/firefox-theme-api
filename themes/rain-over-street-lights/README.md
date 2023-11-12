@@ -1,4 +1,4 @@
-# Rain Over Street Lights
+# Bright Sky
 
 A simple static theme used to learn the basics of Firefox themes.
 
