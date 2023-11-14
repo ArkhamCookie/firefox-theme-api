@@ -14,6 +14,7 @@
 		"ext-build": "web-ext build --overwrite-dest --artifacts-dir ./out/ --source-dir",
 
 		"build:bright-sky": "pnpm run ext-build ./themes/bright-sky",
+		"build:sneaky-theme": "pnpm run ext-build ./extensions/sneaky-theme",
 
 		"ext-dev": "web-ext build --overwrite-dest --as-needed --artifacts-dir ./out/ --source-dir",
 
