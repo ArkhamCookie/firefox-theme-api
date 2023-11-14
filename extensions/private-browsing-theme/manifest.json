@@ -1,0 +1,14 @@
+{
+	"manifest_version": 2,
+	"version": "0.1.0",
+	"background": {
+		"scripts": ["background.js"]
+	},
+	"permissions": ["theme"],
+	"browser_specific_settings": {
+		"gecko": {
+			"id": "private-window-theme@mozilla.org",
+			"strict_min_version": "58.0"
+		}
+	}
+}
