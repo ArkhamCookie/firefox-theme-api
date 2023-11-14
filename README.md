@@ -4,5 +4,5 @@ A repo for messing around with [Firefox](https://firefox.com)'s [themes](https:/
 
 ## Themes
 
-- [Rain Over Street Lights](/themes/rain-over-street-lights/):
-  a simple static theme used to learn the basics of Firefox themes.
+- [Bright Sky](/themes/rain-over-street-lights/):
+  a too bright simple static theme used to learn the basics of Firefox themes.
