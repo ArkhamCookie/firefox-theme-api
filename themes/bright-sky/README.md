@@ -1,6 +1,6 @@
 # Bright Sky
 
-A simple static theme used to learn the basics of Firefox themes.
+A too bright simple static theme used to learn the basics of Firefox themes.
 
 ## Images Used
 
