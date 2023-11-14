@@ -6,6 +6,7 @@
 
     "lint:extensions": "pnpm run lint ./extensions",
 		"lint:dynamic": "pnpm run lint ./extensions/dynamic ; pnpm run ext-lint ./extensions/dynamic",
+		"lint:sneaky-theme": "pnpm run lint ./extensions/dynamic ; pnpm run ext-lint ./extensions/sneaky-theme",
 		"lint:bright-sky": "pnpm run ext-lint ./themes/bright-sky",
 
 		"start:dynamic": "web-ext run --source-dir ./extensions/dynamic",
