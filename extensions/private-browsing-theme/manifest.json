@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "Sneaky Theme",
 	"version": "0.1.0",
-	"description": "A theme that only shows up for private windows.",
+	"description": "A sneaky theme that only shows up for private windows.",
 	"background": {
 		"scripts": ["background.js"]
 	},
